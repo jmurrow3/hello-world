@@ -1,12 +1,15 @@
-# hello-world
+Hello World
 my first repository
+
 learning to code
+
 this will be self tought
 
 hello humans
 
-robot here
+John Here
 
-i like tomatoes
+I still need to work on this
+
 
 im still here
