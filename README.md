@@ -10,5 +10,3 @@ hello humans
 what the hell
 
 
-
-im still here
