@@ -7,9 +7,8 @@ this will be self tought
 
 hello humans
 
-John Here
+what the hell
 
-I still need to work on this
 
 
 im still here
