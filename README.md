@@ -5,7 +5,9 @@ learning to code
 
 this will be self tought
 
-hello human
+hello humans
+
+John Here
 
 
 
