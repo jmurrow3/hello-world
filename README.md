@@ -5,8 +5,8 @@ learning to code
 
 this will be self tought
 
-hello humans
-
 what the hell
 
 Trying this again
+
+Why is this so hard
